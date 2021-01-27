@@ -1,2 +1,2 @@
 # profile-card-component-main
-Exercise From FrontEnd Mentro
+Exercise From FrontEnd Mentor
